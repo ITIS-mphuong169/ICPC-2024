@@ -3,6 +3,7 @@
 //
 
 // E: CON ECH
+// Bai nay minh chua lam duoc nen tham khao code cua anh ben duoi nhe
 
 // Created by Nguyễn Mạnh Quân
 
